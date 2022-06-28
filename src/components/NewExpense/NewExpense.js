@@ -1,6 +1,7 @@
+import "./NewExpense.css";
 function NewExpense() {
   return (
-    <div>
+    <div className="new-expense">
       <form></form>
     </div>
   );
